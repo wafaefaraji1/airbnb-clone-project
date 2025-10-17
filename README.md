@@ -140,6 +140,6 @@ Understanding the **design properties** (colors, fonts, sizes) of a Figma mockup
 ## 👩‍💻 Author
 **Wafae Faraji**  
 Frontend Developer | ALX ProDev Program  
-📧 wafaefarajicoding1@gmail.com  
+📧 wafaefaraji.dev@gmail.com 
 🌍 [GitHub Profile](https://github.com/wafaefaraji)
 
